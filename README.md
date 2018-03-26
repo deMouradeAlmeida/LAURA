@@ -31,9 +31,7 @@ necessary packages in Ubuntu GNU/Linux is done using the follow:
 
 Download our source code from github and add the path of where you want to install LAURA. In bash:
 
-\begin{lstlisting}[language=Python]
-export PYTHONPATH=/home/USER_NAME/LAURA-1.0.0/source:$PYTHONPATH
-\end{lstlisting}
+    export PYTHONPATH=/home/USER_NAME/LAURA-1.0.0/source:$PYTHONPATH
 
 Add this command to your /.bashrc file or similar (/.cshrc, /.bashrc, /.profile). Go to your
 LAURA folder and run the checkme.py file to verify if everything is in order. You should get 
@@ -57,7 +55,7 @@ II. Linux: depending on your distribution:
 Once done, from a new terminal create a directory dedicated for
 this tool with the name LAURA, and from it, clone this github files.
 ::   
-   git clone https://github.com/monolipo/Light-Curve-Python-Analisys-Tool.git
+   git clone https://github.com/deMouradeAlmeida/LAURA.git
 
 This will download the code and instructions.
 
