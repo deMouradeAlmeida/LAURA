@@ -8,7 +8,7 @@ The code uses an object oriented approach and canbe  easily  use  even  for  non
 
 This is the list of the different packages/software you will have to install in order to 
 use the tool.
-If you run into any problems, please contact Bruno Lustosa or Leandro de Almeida.
+If you run into any problems, please contact Bruno Lustosa de Moura or Leandro de Almeida.
 Any use or modification of this tool can be done, as long as the author is warned. - UFRN 2018
 
 In order to use our code, make sure you have python 3.x installed with the follow packages:
