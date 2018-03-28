@@ -1,5 +1,5 @@
 # LAURA
-LAURA (LetsAnalysis,Use andReport ofAsteroseismology)is written in Python 3 with 5 different packages to: download,reduce  and  analyze  raw  light  curves  under  the  Asterosismol-ogy theory. 
+LAURA (Lets Analysis,Use and Report of Asteroseismology)is written in Python 3 with 5 different packages to: download,reduce  and  analyze  raw  light  curves  under  the  Asterosismology theory. 
 
 The code uses an object oriented approach and canbe  easily  use  even  for  non-experts  in  program  language.  All the  additional  python  packages  that  we  use  are  free  and  easy to  install  using  the  pip  package.  Our  code  is  summarized  in only 2 files:LAURA_master.pyandLAURA_aux.py. From the LAURA_master.pyfile, the user can do all steps to download, reduce and analize the light curve.
 
